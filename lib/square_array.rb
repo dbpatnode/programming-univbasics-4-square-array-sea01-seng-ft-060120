@@ -8,4 +8,5 @@ def square_array(array)
     puts square_array
     count += 1
   end
+  return new_array
 end
