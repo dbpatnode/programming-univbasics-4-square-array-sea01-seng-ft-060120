@@ -6,6 +6,6 @@ def square_array(array)
   
   while count < array.length do
     puts squared
-    array += l
+    count += l
   end
 end
